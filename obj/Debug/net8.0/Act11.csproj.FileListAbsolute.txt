@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Documents\actividades poo\Act11\bin\Debug\net8.0\Act11.exe
+C:\Users\Estudiante\Documents\actividades poo\Act11\bin\Debug\net8.0\Act11.deps.json
+C:\Users\Estudiante\Documents\actividades poo\Act11\bin\Debug\net8.0\Act11.runtimeconfig.json
+C:\Users\Estudiante\Documents\actividades poo\Act11\bin\Debug\net8.0\Act11.dll
+C:\Users\Estudiante\Documents\actividades poo\Act11\bin\Debug\net8.0\Act11.pdb
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.dll
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\refint\Act11.dll
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.pdb
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\Act11.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\actividades poo\Act11\obj\Debug\net8.0\ref\Act11.dll
